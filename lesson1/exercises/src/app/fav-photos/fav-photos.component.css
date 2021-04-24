@@ -9,4 +9,6 @@ h3 {
 img {
    width: 40%;
    height: auto;
+   padding: 5px;
 }
+div { border-right: thin black dashed; border-left: thin black dashed; }
