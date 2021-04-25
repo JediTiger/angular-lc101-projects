@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+#harder { color: violet; text-align: center; font-weight: bolder; font-size: larger; }
+
+#done { color: darkred; font-weight: bolder; text-align: center; }
+
+#notreat { text-align: left; color: green; font-size: 1.5vw; }
